@@ -8,7 +8,7 @@ Honestly this is truely amazing
 * Pretty cool right?
 
 ## Link Example
-[MikeUzo](https://www.mikeuzo.com)
+[MikeUzo](https://www.mikeuzo/example/github.com)
 
 1. Item One
 2. Item Two
