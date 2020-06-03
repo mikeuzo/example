@@ -8,7 +8,7 @@ Honestly this is truely amazing
 * Pretty cool right?
 
 ## Link Example
-[MikeTime](https://www.miketime.com)
+[MikeUzo](https://www.mikeuzo.com)
 
 1. Item One
 2. Item Two
