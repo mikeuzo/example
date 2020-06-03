@@ -9,3 +9,7 @@ Honestly this is truely amazing
 
 ## Link Example
 [MikeTime](https://www.miketime.com)
+
+1. Item One
+2. Item Two
+3. Item Three
