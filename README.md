@@ -8,7 +8,7 @@ Honestly this is truely amazing
 * Pretty cool right?
 
 ## Link Example
-[MikeUzo](https://www.mikeuzo/example/github.com)
+[HNG Board](https://board.hng.tech/#/user/task/2)
 
 1. Item One
 2. Item Two
